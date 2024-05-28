@@ -2,4 +2,4 @@ A simple password generator for users to use in a web format. This will allow us
 
 ----
 
-Check the website hosted by Github Pages at: https://connorgladish.github.io/
+Check the website hosted by Github Pages at: [https://connorgladish.github.io/](https://connorgladish.github.io/Password-Generator-JS/)
