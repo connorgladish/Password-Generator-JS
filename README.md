@@ -1,4 +1,4 @@
-![preview.png](assets/preview.png)
+![preview.png](assets/passwordgen.mp4)
 
 # Secure Password Generator
 
