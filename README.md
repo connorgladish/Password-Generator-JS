@@ -1,4 +1,4 @@
-![preview.png](Media/preview.png]
+![preview.png](Media/preview.png)
 
 # Secure Password Generator
 
