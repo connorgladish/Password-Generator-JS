@@ -1,3 +1,5 @@
+![preview.png](Media/preview.png]
+
 # Secure Password Generator
 
 This web application offers a straightforward way for users to generate strong and customizable passwords. Similar to BitLocker, it allows users to specify password length and character types (lowercase letters, uppercase letters, symbols, etc.). The tool then algorithmically generates a unique password meeting the selected criteria. Ideal for situations where a secure yet memorable password is needed without the hassle of creating one manually.
